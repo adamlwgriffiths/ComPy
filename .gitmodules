@@ -1,0 +1,6 @@
+[submodule "contrib/pyrr"]
+	path = contrib/pyrr
+	url = git@github.com:adamlwgriffiths/Pyrr.git
+[submodule "contrib/pygly"]
+	path = contrib/pygly
+	url = git@github.com:adamlwgriffiths/PyGLy.git
